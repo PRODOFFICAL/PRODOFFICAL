@@ -2,8 +2,7 @@
 THIS IS STILL A WORK IN PROGRESS
 You know a average programmer 
 
-[![FRC Team 4611](https://img.shields.io/badge/FRC_Team-4611_OZone-Robotics-blue?style=for-the-badge&logo=first&logoColor=white)](https://www.thebluealliance.com/team/4611)
-
+[![OZone Robotics 4611](https://img.shields.io/badge/OZone_Robotics-4611-green?style=for-the-badge&logo=first&logoColor=white)](https://www.thebluealliance.com/team/4611)
 
 ## here is my stats for no reason 🥇
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=945&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
