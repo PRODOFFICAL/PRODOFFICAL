@@ -12,7 +12,7 @@
 
 ### 🤖 About Me
 
-I'm a sophomore and programmer for **FRC Team 4611, OZone Robotics**, based in Lewis Center, Ohio. I'm passionate about robotics, Python, and building cool things with code. This GitHub is a work in progress where I share my projects and learning journey.
+I'm a junior and programmer for **FRC Team 4611, OZone Robotics**, based in Lewis Center, Ohio. I'm passionate about robotics, Python, and building cool things with code. This GitHub is a work in progress where I share my projects and learning journey.
 
 ---
 
@@ -32,7 +32,7 @@ I'm a sophomore and programmer for **FRC Team 4611, OZone Robotics**, based in L
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=945&api_domain=wakatime.com&custom_title=Wakatime+Stats&layout=compact&theme=darcula&langs_count=8" alt="Wakatime Stats"/>
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=945&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" alt="Wakatime Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=PRODOFFICAL&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" alt="My GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRODOFFICAL&layout=compact&theme=darcula" alt="Top Languages"/>
