@@ -1,4 +1,7 @@
 # Hi there 👋
+<p align="center">
+  <strong>🚧 THIS PROFILE IS A WORK IN PROGRESS 🚧</strong>
+</p>
 
 <p align="center">
   <img src="./main_col(1).png" alt="OZone Robotics Logo" width="300"/>
@@ -48,6 +51,4 @@ I'm a junior and programmer for **FRC Team 4611, OZone Robotics**, based in Lewi
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PRODOFFICAL&color=green&style=flat-square" alt="Profile Views"/>
-</p>
+
