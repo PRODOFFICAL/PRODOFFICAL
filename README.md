@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00A95C&center=true&vCenter=true&width=435&lines=Student+Programmer;FRC+Team+4611+-+OZone+Robotics;RobotPy+%26+Flutter+Developer;Always+building+something+new..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00A95C&center=true&vCenter=true&width=435&lines=Student+Programmer;FRC+Team+4611+-+OZone+Robotics;RobotPy+%26+Flutter+Developer;Always+building+something+new...;...never+finished+anything"/>
 </p>
 
 ---
