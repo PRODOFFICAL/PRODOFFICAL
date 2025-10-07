@@ -6,8 +6,7 @@ You know a average programmer
 
 
 ## here is my stats for no reason 🥇
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=945&api_domain=wakatime.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
-
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=945&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
 <!--
 **PRODOFFICAL/PRODOFFICAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
