@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./main_col(1).png" alt="OZone Robotics Logo" width="300"/>
+  <img src="./main_col.png" alt="OZone Robotics Logo" width="300"/>
 </p>
 
 <p align="center">
