@@ -2,7 +2,7 @@
 THIS IS STILL A WORK IN PROGRESS
 You know a average programmer 
 
-[![FRC Team 4611](https://img.shields.io/badge/FRC_Team-4611_The_Jack_Bots-blue?style=for-the-badge&logo=first&logoColor=white)](https://www.thebluealliance.com/team/4611)
+[![FRC Team 4611](https://img.shields.io/badge/FRC_Team-4611_OZone-Robotics-blue?style=for-the-badge&logo=first&logoColor=white)](https://www.thebluealliance.com/team/4611)
 
 
 ## here is my stats for no reason 🥇
