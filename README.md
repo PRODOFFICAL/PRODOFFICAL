@@ -46,8 +46,8 @@ I'm a junior and programmer for **FRC Team 4611, OZone Robotics**, based in Lewi
 ### ⚡ What I'm Up To
 
 - 🔭 I’m currently working on offseason projects for OZone Robotics.
-- 🌱 I’m currently learning more about computer vision for FRC.
-- 💬 Ask me about **FRC, RobotPy, or anything robotics-related!**
+- 🌱 I’m currently learning more about AI stuff.
+- 💬 Don't Ask me about **FRC, RobotPy, or anything robotics-related!**
 
 ---
 
